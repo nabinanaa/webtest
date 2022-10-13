@@ -1,0 +1,14 @@
+2022/10/13-22:17:20.178 3ab4 Reusing MANIFEST C:\Users\Kim Nana\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2022/10/13-22:17:20.179 3ab4 Recovering log #49
+2022/10/13-22:17:20.179 3ab4 Level-0 table #51: started
+2022/10/13-22:17:20.182 3ab4 Level-0 table #51: 27286 bytes OK
+2022/10/13-22:17:20.184 3ab4 Delete type=0 #49
+2022/10/13-22:17:20.185 55b4 Compacting 4@0 + 1@1 files
+2022/10/13-22:17:20.188 55b4 Generated table #53@0: 15 keys, 14257 bytes
+2022/10/13-22:17:20.188 55b4 Compacted 4@0 + 1@1 files => 14257 bytes
+2022/10/13-22:17:20.189 55b4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/10/13-22:17:20.190 55b4 Delete type=2 #40
+2022/10/13-22:17:20.190 55b4 Delete type=2 #42
+2022/10/13-22:17:20.190 55b4 Delete type=2 #45
+2022/10/13-22:17:20.190 55b4 Delete type=2 #48
+2022/10/13-22:17:20.190 55b4 Delete type=2 #51
